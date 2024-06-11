@@ -1,5 +1,7 @@
 # Reúne os desafios lançados no Let's Code Pass
 # digital Course
+# salvando alteraçoes no git 
+* comando git push
 Para mais informações, entre em nossa comunidade se inscrevendo em nosso [site](https://letscode.com.br/lets-code-pass)
 
 ## python-challenge1
